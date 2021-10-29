@@ -3,7 +3,7 @@
 
 ### SEJA BEM VINDO AO MEU PERFIL.👋😄
 
-**Sou Edvaldo junior estudante de tecnologia, estou aprendendo e buscando adquirir conhecimento em varias linguagens.**
+**Sou Edvaldo junior estudante de tecnologia, estou aprendendo e buscando adquirir conhecimento em varias linguagens de programação.**
 
 >Cursando: FRONT-END [Senai limeira](https://limeira.sp.senai.br/)
 >

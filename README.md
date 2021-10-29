@@ -13,6 +13,14 @@
 
 
 
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edvaldo-jr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edvaldo-jr&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
+
 
 
 ![codigos](https://github.com/Edvaldo-jr/Edvaldo-jr/blob/main/animated-computer.gif)

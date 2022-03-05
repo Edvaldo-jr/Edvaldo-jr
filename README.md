@@ -7,7 +7,7 @@
 
 >Cursando: FRONT-END [Senai limeira](https://limeira.sp.senai.br/)
 >
->Cursando: Banco de dados e outras linguagens [UNIVESP](https://univesp.br/)
+>Cursando: Banco de dados e outras linguagens [FHO UNIARARAS](https://vestibular.fho.edu.br/cursos/?tag=sistemas-informacao/)
 >
 >Cursando: Inglês [Wizard](https://www.wizard.com.br/escolas/araras/)
 

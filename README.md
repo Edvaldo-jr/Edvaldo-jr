@@ -5,9 +5,13 @@
 
 **Sou Edvaldo junior estudante de tecnologia, estou aprendendo e buscando adquirir conhecimento em varias linguagens de programação.**
 
->Cursando: FRONT-END [Senai limeira](https://limeira.sp.senai.br/)
+>Curso realizado: FRONT-END [Senai limeira](https://limeira.sp.senai.br/)
 >
->Cursando: Banco de dados e outras linguagens [FHO UNIARARAS](https://vestibular.fho.edu.br/cursos/?tag=sistemas-informacao/)
+>Curso realizado: COMPETÊNCIA TRANSVERSAL - TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO [SENAI](https://www.sp.senai.br/)
+>
+>Curso realizado: COMPETÊNCIA TRANSVERSAL - LÓGICA DE PROGRAMAÇÃO [SENAI](https://www.sp.senai.br/)
+
+>Cursando: [FHO UNIARARAS](https://vestibular.fho.edu.br/cursos/?tag=sistemas-informacao/)
 >
 >Cursando: Inglês [Wizard](https://www.wizard.com.br/escolas/araras/)
 

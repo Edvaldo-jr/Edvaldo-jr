@@ -11,7 +11,7 @@
 >
 >Curso realizado: COMPETÊNCIA TRANSVERSAL - LÓGICA DE PROGRAMAÇÃO [SENAI](https://www.sp.senai.br/)
 
->Cursando: [FHO UNIARARAS](https://vestibular.fho.edu.br/cursos/?tag=sistemas-informacao/)
+>Cursando: Sistemas de informação [FHO UNIARARAS](https://vestibular.fho.edu.br/cursos/?tag=sistemas-informacao/)
 >
 >Cursando: Inglês [Wizard](https://www.wizard.com.br/escolas/araras/)
 

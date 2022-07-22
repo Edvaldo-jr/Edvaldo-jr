@@ -13,7 +13,6 @@
 
 >Cursando: Sistemas de informação [FHO UNIARARAS](https://vestibular.fho.edu.br/cursos/?tag=sistemas-informacao/)
 >
->Cursando: Inglês [Wizard](https://www.wizard.com.br/escolas/araras/)
 
 
 

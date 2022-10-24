@@ -1,4 +1,4 @@
-![hello word](https://github.com/Edvaldo-jr/Edvaldo-jr/blob/main/hello-world%2010.gif)
+![p (1)](https://user-images.githubusercontent.com/87876792/197579491-735ddec6-8965-4f6e-a416-3c283b17987b.gif)
 
 
 ### SEJA BEM VINDO AO MEU PERFIL.👋😄

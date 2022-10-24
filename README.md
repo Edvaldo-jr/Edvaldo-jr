@@ -1,4 +1,4 @@
-![p (1)](https://user-images.githubusercontent.com/87876792/197579491-735ddec6-8965-4f6e-a416-3c283b17987b.gif)
+![crash final](https://user-images.githubusercontent.com/87876792/197581196-576de58f-0e3e-440f-9242-5ded69c76799.gif)
 
 
 ### SEJA BEM VINDO AO MEU PERFIL.👋😄

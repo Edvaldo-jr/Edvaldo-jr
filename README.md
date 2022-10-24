@@ -26,7 +26,7 @@
 
 
 
-![codigos](https://github.com/Edvaldo-jr/Edvaldo-jr/blob/main/animated-computer.gif)
+![bloggif_6356e9908b53e](https://user-images.githubusercontent.com/87876792/197611135-2443e3ac-7f9b-43d9-8e74-2cf2b96d1ab3.gif)
 
 
 

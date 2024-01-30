@@ -1,4 +1,4 @@
-![crash final](https://user-images.githubusercontent.com/87876792/197581196-576de58f-0e3e-440f-9242-5ded69c76799.gif)
+![jr](https://raw.githubusercontent.com/Edvaldo-jr/Edvaldo-jr/main/welcome.gif)
 
 
 ### SEJA BEM VINDO AO MEU PERFIL.👋😄
